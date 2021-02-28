@@ -1,0 +1,12 @@
+D:\Tools\定时熄屏V1.00\屏保\bin\Debug\屏保.exe.config
+D:\Tools\定时熄屏V1.00\屏保\bin\Debug\屏保.exe
+D:\Tools\定时熄屏V1.00\屏保\bin\Debug\屏保.pdb
+D:\Tools\定时熄屏V1.00\屏保\obj\Debug\屏保.Form1.resources
+D:\Tools\定时熄屏V1.00\屏保\obj\Debug\屏保.Properties.Resources.resources
+D:\Tools\定时熄屏V1.00\屏保\obj\Debug\屏保.csproj.GenerateResource.cache
+D:\Tools\定时熄屏V1.00\屏保\obj\Debug\屏保.csproj.CoreCompileInputs.cache
+D:\Tools\定时熄屏V1.00\屏保\obj\Debug\屏保.exe
+D:\Tools\定时熄屏V1.00\屏保\obj\Debug\屏保.pdb
+D:\Tools\定时熄屏V1.00\屏保\obj\Debug\屏保.Form2.resources
+D:\Tools\定时熄屏V1.00\屏保\obj\Debug\屏保.Form3.resources
+D:\Tools\定时熄屏V1.00\屏保\obj\Debug\屏保.csprojAssemblyReference.cache
